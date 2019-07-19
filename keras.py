@@ -53,3 +53,14 @@ plt.scatter(Hmess.ravel(), fitHmess.ravel())
 plt.xlabel('linalg')
 plt.ylabel('fitted values')
 
+['AMT005c-02-1',
+ 'AMT005c-02-2',
+ 'AMT005c-04-1',
+ 'AMT005c-08-1',
+ 'AMT005c-11-1',
+ 'AMT005c-12-1',
+ 'AMT005c-13-1',
+ 'AMT005c-13-2',
+ 'AMT005c-14-1',
+ 'AMT005c-19-1',
+ 'AMT005c-20-1']

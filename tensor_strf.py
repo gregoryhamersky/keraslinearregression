@@ -55,6 +55,7 @@ def strf_tensor(mfilename,cellid,plot=False,linalg=False,real=False):
         #bf = strf_plot_prepare(fitH,Params)
         [_,_] = strfplot(fitH, Params['lfreq'], Params['basep'], 1, Params['octaves'])
         plt.title('%s - Linear Regression' % (os.path.basename(mfilename)), fontweight='bold')
+        plt.ylabel('Frequency (Hz)')
 
     if linalg == True:
         #based on idea that H = Y*Xtranspose*inverse of correlation matrix
@@ -69,6 +70,7 @@ def strf_tensor(mfilename,cellid,plot=False,linalg=False,real=False):
         #bfl = strf_plot_prepare(H,Params)
         [_,_] = strfplot(H, Params['lfreq'], Params['basep'], 1, Params['octaves'])
         plt.title('%s - Control' % (os.path.basename(mfilename)), fontweight='bold')
+        plt.ylabel('Frequency (Hz)')
 
     if real == True:
         _ = tor_tuning(mfilename,cellid,fs,plot=True)
