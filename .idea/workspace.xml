@@ -10,6 +10,8 @@
       <change afterPath="$PROJECT_DIR$/tense_subfunctions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/keraslinearregression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/keraslinearregression.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensor_strf.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensor_strf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensor_subfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensor_subfunctions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tftest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,38 +22,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strftense.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1635">
-              <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/strf_tensor.py">
+        <entry file="file://$PROJECT_DIR$/tensor_strf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="144" selection-start-line="10" selection-start-column="144" selection-end-line="10" selection-end-column="144" />
+            <state relative-caret-position="180">
+              <caret line="18" selection-start-line="18" selection-end-line="75" selection-end-column="15" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/strf/tensor_strf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="74" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/strf/strf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-end-line="31" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/baphy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1593">
+              <caret line="1259" selection-start-line="1259" selection-end-line="1259" />
             </state>
           </provider>
         </entry>
@@ -59,8 +70,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensor_subfunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1624">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="330">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/strf/tensor_subfunctions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="88" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/strf/torc_subfunctions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="152" column="30" lean-forward="true" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -76,15 +111,6 @@
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///auto/users/hamersky/anaconda3/envs/tf/lib/python3.7/site-packages/IPython/core/interactiveshell.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="3295" selection-start-line="3295" selection-end-line="3295" />
             </state>
           </provider>
         </entry>
@@ -123,6 +149,13 @@
         <option value="$PROJECT_DIR$/testing.py" />
         <option value="$PROJECT_DIR$/tf1.py" />
         <option value="$PROJECT_DIR$/strf_tensor.py" />
+        <option value="$PROJECT_DIR$/tensor.py" />
+        <option value="/auto/users/hamersky/nems_db/nems_lbhb/strf/tensor_subfunctions.py" />
+        <option value="/auto/users/hamersky/nems_db/nems_lbhb/baphy.py" />
+        <option value="/auto/users/hamersky/nems_db/nems_lbhb/strf/strf.py" />
+        <option value="/auto/users/hamersky/nems_db/nems_lbhb/strf/tensor_strf.py" />
+        <option value="$PROJECT_DIR$/tensor_subfunctions.py" />
+        <option value="$PROJECT_DIR$/tensor_strf.py" />
       </list>
     </option>
   </component>
@@ -167,6 +200,13 @@
             </path>
             <path>
               <item name="keraslinearregression" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keraslinearregression" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="nems_db" type="462c0819:PsiDirectoryNode" />
+              <item name="nems_lbhb" type="462c0819:PsiDirectoryNode" />
+              <item name="strf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keraslinearregression" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -179,10 +219,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="/auto/users/hamersky/nems_db" />
+    <property name="last_opened_file_path" value="/auto/users/hamersky/nems_db/nems_lbhb/strf" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="/auto/users/hamersky/nems_db/nems_lbhb/strf" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -210,18 +255,17 @@
       <workItem from="1561506579647" duration="30741000" />
       <workItem from="1562779618526" duration="11704000" />
       <workItem from="1563295616410" duration="41346000" />
-      <workItem from="1563465739201" duration="10409000" />
+      <workItem from="1563465739201" duration="22247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95146000" />
+    <option name="totallyTimeSpent" value="106984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1928" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11846318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11846318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -241,7 +285,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" auto_hide="true" id="SciView" order="3" show_stripe_button="false" type="FLOATING" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Python Console" order="5" visible="true" weight="0.37086445" />
+      <window_info active="true" anchor="right" id="Python Console" order="5" visible="true" weight="0.42582712" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,20 +302,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///auto/users/hamersky/anaconda3/envs/tf/lib/python3.7/site-packages/IPython/core/interactiveshell.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
           <caret line="3295" selection-start-line="3295" selection-end-line="3295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strf_tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="72" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -281,6 +325,16 @@
           <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -295,20 +349,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensor_subfunctions.py">
+    <entry file="file://$PROJECT_DIR$/tensor_sub.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1624">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state>
+          <caret selection-end-line="229" selection-end-column="33" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/strf_tensor.py">
+    <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/strf/tensor_subfunctions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="144" selection-start-line="10" selection-start-column="144" selection-end-line="10" selection-end-column="144" />
+        <state relative-caret-position="45">
+          <caret line="3" column="88" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/strf/tensor_strf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="74" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/baphy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="1259" selection-start-line="1259" selection-end-line="1259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/strf/strf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensor_subfunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///auto/users/hamersky/nems_db/nems_lbhb/strf/torc_subfunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="152" column="30" lean-forward="true" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensor_strf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" selection-start-line="18" selection-end-line="75" selection-end-column="15" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
